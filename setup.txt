@@ -1,0 +1,5 @@
+2018-01-04 00:51
+- could check-out gitrepo by URL with no issues in TortoiseSVN
+- Windows complained that it could not find a windows 10 SDK in the C++ development
+- Doing moderately massive Visual Studio update
+- will report more findings as they occur
